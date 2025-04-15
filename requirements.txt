@@ -5,5 +5,4 @@ pytest-html
 pytest-xdist
 openpyxl
 allure-pytest
-webdrivermanager
 configparser
